@@ -10,6 +10,3 @@ let Fahrenheit =(celsius*(9/5)+32)
 Fahrenheit = Math.floor(Fahrenheit);
 console.log(`The temperature is ${Fahrenheit} degrees Fahrenheit.`)
 console.log(`Temperature in newtons is ${Newton}`)
-
-
-
